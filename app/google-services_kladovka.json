@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871512813561",
+    "project_id": "relabs-courier-kladovka",
+    "storage_bucket": "relabs-courier-kladovka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871512813561:android:d9ba27905ffa47fa21d728",
+        "android_client_info": {
+          "package_name": "ru.relabs.storekeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzphXfwDZVpfCYMTVPN5KPbtl1fWgZO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
